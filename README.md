@@ -15,6 +15,7 @@ touch .env
 ```
 
 Add your env vars to .env:
+
 MY_EMAIL="youremail@yourdomain.com"
 BASE_API="https://api.bitcraftonline.com/authentication"
 
