@@ -26,4 +26,9 @@ BITCRAFT_SPACETIME_AUTH="Bearer ey...."
 
 NOTE: If you are logged into the game any further commands may disconnect you.
 
+## Usage
+
+View Chat: uv run chat.py
+
+Download tables: uv run bitjita_dump.py
 
