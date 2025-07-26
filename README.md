@@ -22,6 +22,7 @@ BASE_API="https://api.bitcraftonline.com/authentication"
 run `uv run auth.py` to send an access code to your email, then paste the token into your _AUTH key with Bearer in front
 
 Add remaining vars:
+
 BITCRAFT_SPACETIME_HOST="bitcraft-early-access.spacetimedb.com"
 BITCRAFT_SPACETIME_AUTH="Bearer ey...."
 
