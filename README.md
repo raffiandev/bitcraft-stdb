@@ -10,7 +10,7 @@ Install uv [github link](https://github.com/astral-sh/uv)
 git clone https://github.com/raffdev/bitcraft-stdb
 uv venv --python 3.12 --seed
 source .venv/bin/activate
-uv add requests websockets python-dotenv
+uv add requests websockets python-dotenv loguru
 touch .env
 ```
 
